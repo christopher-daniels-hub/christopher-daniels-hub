@@ -32,10 +32,12 @@ activity, and helping organizations strengthen their security posture.
 
 ## Featured Projects
 
-### Python Port Scanner
+### [Python Port Scanner](https://github.com/christopher-daniels-hub/Python-Port-Scanner)
 
-Created a custom Python port scanner to identify accessible TCP ports on an 
-authorized Windows Server in an isolated lab environment.
+Developed a custom Python TCP port scanner that scanned ports 1 through 1024 
+on an authorized Windows Server. The project demonstrates Python scripting, 
+TCP socket programming, network reconnaissance, result verification, and 
+defensive detection awareness.
 
 ### Linux Administration Lab
 
