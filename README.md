@@ -39,6 +39,14 @@ on an authorized Windows Server. The project demonstrates Python scripting,
 TCP socket programming, network reconnaissance, result verification, and 
 defensive detection awareness.
 
+### [Windows Vulnerability Analysis and Exploitation Lab](https://github.com/christopher-daniels-hub/Windows-Vulnerability-Analysis-Lab)
+
+Conducted an authorized vulnerability assessment of a Windows Server within 
+the UMGC MARS virtual lab environment. Used Nmap, Hydra, Metasploit, and SSH 
+to identify exposed services, evaluate authentication security, verify remote 
+access, enumerate Windows account information, and develop defense-in-depth 
+recommendations.
+
 ### Linux Administration Lab
 
 Practiced Linux file management, permissions, users, groups, hard links, 
