@@ -32,6 +32,12 @@ activity, and helping organizations strengthen their security posture.
 
 ## Featured Projects
 
+### [ELK Stack SIEM Firewall Monitoring](https://github.com/christopher-daniels-hub/ELK-Stack-SIEM-Firewall-Monitoring)
+
+Developed an end-to-end SIEM monitoring workflow using Elasticsearch, Logstash, and Kibana. Collected and parsed Linux authentication and UFW firewall logs, investigated blocked network traffic, analyzed source addresses and destination ports, and created a Kibana security-monitoring dashboard.
+
+**Skills demonstrated:** SIEM monitoring, log analysis, Logstash pipelines, Grok parsing, Elasticsearch, Kibana, KQL, firewall analysis, security investigation, and dashboard development.
+
 ### [Python Port Scanner](https://github.com/christopher-daniels-hub/Python-Port-Scanner)
 
 Developed a custom Python TCP port scanner that scanned ports 1 through 1024 
