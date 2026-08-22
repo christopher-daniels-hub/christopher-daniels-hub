@@ -32,41 +32,16 @@ activity, and helping organizations strengthen their security posture.
 
 ## Featured Projects
 
-### [ELK Stack SIEM Firewall Monitoring](https://github.com/christopher-daniels-hub/ELK-Stack-SIEM-Firewall-Monitoring)
+| Project | Description | Tools & Skills |
+|---|---|---|
+| **[ELK Stack SIEM Firewall Monitoring](https://github.com/christopher-daniels-hub/ELK-Stack-SIEM-Firewall-Monitoring)** | Developed an end-to-end SIEM monitoring workflow that collected and parsed Linux authentication and UFW firewall logs. Investigated blocked network traffic and created a Kibana security-monitoring dashboard. | Elasticsearch, Logstash, Kibana, Grok, KQL, SIEM Monitoring, Log Analysis, Firewall Analysis |
+| **[Compromised Host Investigation Using 5-Tuple Analysis](https://github.com/christopher-daniels-hub/Compromised-Host-5-Tuple-Investigation)** | Investigated a compromised host using 5-tuple network analysis to correlate IDS alerts, packet captures, session data, and SIEM telemetry and confirm root-level compromise. | Security Onion, Sguil, Snort, Wireshark, Kibana, Zeek, SOC Analysis, Incident Response, Network Forensics |
+| **[Windows Vulnerability Analysis and Exploitation Lab](https://github.com/christopher-daniels-hub/Windows-Vulnerability-Analysis-Lab)** | Conducted an authorized vulnerability assessment of a Windows Server to identify exposed services, evaluate authentication security, verify remote access, and develop defense-in-depth recommendations. | Nmap, Hydra, Metasploit, SSH, Vulnerability Analysis, Enumeration, Ethical Hacking |
+| **[Python Port Scanner](https://github.com/christopher-daniels-hub/Python-Port-Scanner)** | Developed a custom Python TCP port scanner that scanned ports 1–1024 on an authorized Windows Server and verified discovered services. | Python, TCP Sockets, Port Scanning, Network Reconnaissance, Detection Awareness |
+| **Linux Administration Lab** | Practiced Linux file management, permissions, users, groups, hard links, symbolic links, and package management in Kali Linux. | Kali Linux, Linux CLI, Permissions, Users & Groups, Package Management |
+| **Secure Flask Application** | Developed a Flask web application with account registration, password requirements, password hashing, and failed-login monitoring. | Python, Flask, Authentication Security, Password Hashing, Security Logging |
+| **Network Reconnaissance Lab** | Used Nmap to identify hosts, ports, services, and potential security risks within an authorized virtual lab environment. | Nmap, Network Reconnaissance, Service Enumeration, Network Security |
 
-Developed an end-to-end SIEM monitoring workflow using Elasticsearch, Logstash, and Kibana. Collected and parsed Linux authentication and UFW firewall logs, investigated blocked network traffic, analyzed source addresses and destination ports, and created a Kibana security-monitoring dashboard.
-
-**Skills demonstrated:** SIEM monitoring, log analysis, Logstash pipelines, Grok parsing, Elasticsearch, Kibana, KQL, firewall analysis, security investigation, and dashboard development.
-
-### [Python Port Scanner](https://github.com/christopher-daniels-hub/Python-Port-Scanner)
-
-Developed a custom Python TCP port scanner that scanned ports 1 through 1024 
-on an authorized Windows Server. The project demonstrates Python scripting, 
-TCP socket programming, network reconnaissance, result verification, and 
-defensive detection awareness.
-
-### [Windows Vulnerability Analysis and Exploitation Lab](https://github.com/christopher-daniels-hub/Windows-Vulnerability-Analysis-Lab)
-
-Conducted an authorized vulnerability assessment of a Windows Server within 
-the UMGC MARS virtual lab environment. Used Nmap, Hydra, Metasploit, and SSH 
-to identify exposed services, evaluate authentication security, verify remote 
-access, enumerate Windows account information, and develop defense-in-depth 
-recommendations.
-
-### Linux Administration Lab
-
-Practiced Linux file management, permissions, users, groups, hard links, 
-symbolic links, and package management in Kali Linux.
-
-### Secure Flask Application
-
-Developed a Flask web application with account registration, password 
-requirements, password hashing, and failed-login monitoring.
-
-### Network Reconnaissance Lab
-
-Used Nmap to identify hosts, ports, services, and potential security risks in 
-an authorized virtual lab environment.
 
 
 
