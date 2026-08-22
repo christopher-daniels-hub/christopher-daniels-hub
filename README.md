@@ -202,15 +202,19 @@ Future projects will focus increasingly on:
 
 Cybersecurity Operations Student | CompTIA Security+ | SOC & SIEM | Blue Team | Cloud Security
 
+
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christopher-daniels-94611232a/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Connect with Christopher Daniels on LinkedIn"
-    />
+
+  <a href="https://www.linkedin.com/in/christopher-daniels-94611232a/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Christopher Daniels on LinkedIn">
   </a>
+
+  <a href="./comptia-security-plus-certificate.pdf">
+    <img src="https://img.shields.io/badge/COMPTIA-SECURITY%2B-E2231A?style=for-the-badge" alt="View CompTIA Security+ certificate">
+  </a>
+
 </p>
 
 GitHub: [christopher-daniels-hub](https://github.com/christopher-daniels-hub)
