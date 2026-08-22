@@ -23,29 +23,45 @@ activity, and helping organizations strengthen their overall security posture.
 
 ## Technical Skills
 
-- Linux and Windows Administration
-- Python Scripting
-- Security Information and Event Management (SIEM)
-- ELK Stack (Elasticsearch, Logstash, Kibana)
-- Security Onion
-- Sguil
-- Snort
-- Zeek
-- Wireshark Network Analysis
-- Nmap and Metasploit
-- Vulnerability Assessment
-- Network Reconnaissance
-- SOC Analysis
-- Incident Response
-- Network Forensics
-- IDS Alert Analysis
-- Log Analysis and Correlation
-- Threat Detection
-- Packet Analysis
-- TCP/IP and 5-Tuple Analysis
-- Git and GitHub
-- AWS and Azure Fundamentals
-- Technical Documentation
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<ul>
+<li>Linux and Windows Administration</li>
+<li>Python Scripting</li>
+<li>Security Information and Event Management (SIEM)</li>
+<li>ELK Stack (Elasticsearch, Logstash, Kibana)</li>
+<li>Security Onion</li>
+<li>Sguil</li>
+<li>Snort</li>
+<li>Zeek</li>
+<li>Wireshark Network Analysis</li>
+<li>Nmap and Metasploit</li>
+<li>Vulnerability Assessment</li>
+<li>Network Reconnaissance</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<ul>
+<li>SOC Analysis</li>
+<li>Incident Response</li>
+<li>Network Forensics</li>
+<li>IDS Alert Analysis</li>
+<li>Log Analysis and Correlation</li>
+<li>Threat Detection</li>
+<li>Packet Analysis</li>
+<li>TCP/IP and 5-Tuple Analysis</li>
+<li>Git and GitHub</li>
+<li>AWS and Azure Fundamentals</li>
+<li>Technical Documentation</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -185,5 +201,16 @@ Future projects will focus increasingly on:
 **Christopher Daniels**
 
 Cybersecurity Operations Student | CompTIA Security+ | SOC & SIEM | Blue Team | Cloud Security
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/christopher-daniels-94611232a/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect with Christopher Daniels on LinkedIn"
+    />
+  </a>
+</p>
 
 GitHub: [christopher-daniels-hub](https://github.com/christopher-daniels-hub)
