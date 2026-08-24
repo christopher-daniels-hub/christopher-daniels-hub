@@ -172,21 +172,20 @@ I am continuing to develop hands-on experience in both defensive and offensive c
 
 ---
 
-## Portfolio Development
+## Portfolio Development 🚀
 
-This portfolio will continue to grow as I complete additional cybersecurity 
-projects, labs, certifications, and cloud security training.
+This portfolio will continue to grow as I complete additional cybersecurity projects, hands-on labs, certifications, and cloud security training. Future projects will strengthen my experience as an aspiring **SOC Analyst** while supporting my long-term goal of becoming a **Cloud Security Engineer**.
 
-Future projects will focus increasingly on:
-
-- AWS Security
-- Azure Security
-- Cloud SIEM
-- Identity and Access Management (IAM)
-- Cloud Logging and Monitoring
-- Security Automation
-- Cloud Vulnerability Management
-- Incident Detection and Response
+| Future Focus | Planned Projects and Skill Development |
+|--------------|----------------------------------------|
+| ☁️ **AWS Security** | Explore AWS security services, access controls, monitoring, and cloud infrastructure protection. |
+| 🔷 **Azure Security** | Develop hands-on experience securing Microsoft Azure resources and cloud environments. |
+| 📊 **Cloud SIEM** | Investigate cloud-based security monitoring, centralized logging, and threat detection workflows. |
+| 🔐 **Identity and Access Management** | Practice managing users, permissions, roles, authentication, and least-privilege access. |
+| 📝 **Cloud Logging and Monitoring** | Collect and analyze cloud security logs to identify suspicious activity and operational risks. |
+| ⚙️ **Security Automation** | Use scripting and automation to streamline monitoring, investigations, and security tasks. |
+| 🎯 **Cloud Vulnerability Management** | Identify cloud misconfigurations, assess vulnerabilities, and recommend security improvements. |
+| 🚨 **Incident Detection and Response** | Develop practical skills for detecting, investigating, and responding to security incidents. |
 
 ---
 
