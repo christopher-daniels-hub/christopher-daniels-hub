@@ -126,25 +126,24 @@ management, and incident response.
 
 ---
 
-## Education
+## Education 🎓
 
 ### Bachelor of Science in Cyber Operations
 
-**University of Maryland Global Campus**  
-Expected Graduation: Fall 2026
+🏫 **University:** University of Maryland Global Campus  
+📅 **Expected Graduation:** Fall 2026
 
-Areas of study include:
-
-- Network Defense
-- Ethical Hacking
-- Incident Response
-- Secure Architecture
-- SIEM Operations
-- Linux Administration
-- Vulnerability Analysis
-- Malware Fundamentals
-- Cybersecurity Operations
-
+| Focus Area | Skills and Knowledge |
+|------------|----------------------|
+| 🛡️ **Network Defense** | Protecting networks, identifying threats, and implementing defensive security measures. |
+| 🎯 **Ethical Hacking** | Conducting authorized security assessments and identifying system vulnerabilities. |
+| 🚨 **Incident Response** | Investigating security incidents and evaluating appropriate response strategies. |
+| 🏗️ **Secure Architecture** | Understanding secure system design and defense-in-depth principles. |
+| 📊 **SIEM Operations** | Collecting, monitoring, and analyzing security logs and alerts. |
+| 🐧 **Linux Administration** | Managing Linux systems, users, permissions, packages, and command-line operations. |
+| 🔎 **Vulnerability Analysis** | Identifying and assessing security weaknesses across systems and networks. |
+| 🦠 **Malware Fundamentals** | Understanding malware behavior, attack methods, and detection concepts. |
+| ⚙️ **Cybersecurity Operations** | Applying practical skills in threat detection, security monitoring, and operational defense. |
 ### Planned Graduate Education
 
 **Master of Science in Cloud Computing Systems**
