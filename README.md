@@ -15,7 +15,7 @@ investigation, and Python scripting.
 
 ## Career Objective
 
-My immediate career goal is to become a **SOC Analyst**, where I can strengthen my skills in security monitoring, threat detection, incident response, and vulnerability analysis. By gaining hands-on experience protecting systems and investigating suspicious activity, I aim to build the technical foundation needed to achieve my long-term goal of becoming a **Cloud Security Engineer** and helping organizations secure their cloud environments.
+My immediate career goal is to become a **SOC Analyst**, where I can strengthen my skills in security monitoring, threat detection, incident response, and vulnerability analysis. By gaining hands-on experience protecting systems and investigating suspicious activity, I aim to build the technical foundation needed to achieve my long-term goal of becoming a Cloud Security Engineer and helping organizations secure their cloud environments.
 
 
 ---
