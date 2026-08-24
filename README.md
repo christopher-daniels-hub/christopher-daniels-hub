@@ -154,23 +154,21 @@ security, and enterprise computing environments.
 
 ---
 
-## Professional Focus
+## Professional Focus 🎯
 
-I am continuing to develop hands-on experience in both defensive and offensive 
-cybersecurity. My portfolio focuses on demonstrating practical skills rather than 
-only theoretical knowledge.
+I am continuing to develop hands-on experience in both defensive and offensive cybersecurity, with an emphasis on practical skills that support my immediate goal of becoming a **SOC Analyst** and my long-term goal of becoming a **Cloud Security Engineer**.
 
-My current areas of focus include:
-
-- Cloud Security
-- Security Operations
-- SIEM Engineering
-- Threat Detection
-- Incident Response
-- Vulnerability Management
-- Network Security
-- Security Automation
-- AWS and Azure Security
+| Focus Area | Professional Development |
+|------------|--------------------------|
+| ☁️ **Cloud Security** | Developing the knowledge needed to secure cloud environments, workloads, and services. |
+| 🛡️ **Security Operations** | Strengthening skills in security monitoring, alert investigation, and defensive operations. |
+| 📊 **SIEM Engineering** | Building experience with security log collection, analysis, dashboards, and monitoring workflows. |
+| 🔎 **Threat Detection** | Identifying suspicious activity and investigating potential security threats. |
+| 🚨 **Incident Response** | Developing practical experience analyzing security incidents and supporting response efforts. |
+| 🎯 **Vulnerability Management** | Identifying, assessing, and prioritizing security vulnerabilities and misconfigurations. |
+| 🌐 **Network Security** | Analyzing network traffic, firewall activity, and communication patterns. |
+| ⚙️ **Security Automation** | Exploring Python scripting and automation to improve cybersecurity workflows. |
+| 🔐 **AWS and Azure Security** | Building foundational knowledge of cloud security principles across AWS and Microsoft Azure. |
 
 ---
 
