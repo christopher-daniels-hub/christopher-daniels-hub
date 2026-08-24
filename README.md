@@ -77,44 +77,42 @@ My immediate career goal is to become a **SOC Analyst**, where I can strengthen 
 
 ## SIEM & SOC Experience
 
-### ELK Stack / SIEM
+### ELK Stack / SIEM 🔎
 
-Built and configured an ELK Stack environment using **Elasticsearch, Logstash, 
-Kibana, and Beats** to provide centralized security monitoring and log analysis.
+Built and configured an ELK Stack environment using **Elasticsearch, Logstash, Kibana, and Beats** to provide centralized security monitoring and log analysis.
 
-Experience includes:
-
-- Building and configuring ELK Stack SIEM environments
-- Collecting and analyzing Linux authentication and firewall logs
-- Developing Logstash pipelines
-- Creating custom Grok patterns for log parsing
-- Normalizing and enriching security log data
-- Creating Kibana dashboards and visualizations
-- Investigating blocked and suspicious network traffic
-- Analyzing source IP addresses and destination ports
-- Using KQL to investigate security events
-- Configuring Index Lifecycle Management (ILM)
-- Working with Role-Based Access Control (RBAC)
-- Testing detection workflows using simulated security activity
-
+| Area | Skills and Experience |
+|------|-----------------------|
+| 🛠️ **SIEM Configuration** | Built and configured ELK Stack environments for centralized security monitoring. |
+| 📥 **Log Collection** | Collected and analyzed Linux authentication and firewall logs. |
+| ⚙️ **Logstash Pipelines** | Developed Logstash pipelines to process and organize security event data. |
+| 🧩 **Log Parsing** | Created custom Grok patterns to parse, normalize, and enrich security logs. |
+| 📊 **Dashboards** | Created Kibana dashboards and visualizations to monitor security activity. |
+| 🔎 **Threat Investigation** | Investigated blocked and suspicious network traffic using Kibana Query Language (KQL). |
+| 🌐 **Network Analysis** | Analyzed source IP addresses, destination ports, and firewall events. |
+| 🗂️ **Data Management** | Configured Index Lifecycle Management (ILM) to manage security log data. |
+| 🔐 **Access Control** | Worked with Role-Based Access Control (RBAC) to manage user permissions. |
+| 🚨 **Detection Testing** | Tested security detection workflows using simulated activity. |
 ### Security Operations Center (SOC)
 
-Hands-on SOC and defensive security experience includes:
+### SOC Operations / Defensive Security 🛡️
 
-- Security Onion deployment and analysis
-- IDS alert investigation
-- Snort signature analysis
-- Sguil session investigation
-- Zeek network telemetry analysis
-- Wireshark packet inspection
-- TCP stream reconstruction
-- Network traffic analysis
-- 5-tuple session correlation
-- Threat detection and investigation
-- Incident response analysis
-- Log correlation
-- Post-exploitation activity analysis
-- Network forensics
+Hands-on experience deploying security monitoring tools, investigating alerts, analyzing network traffic, and identifying suspicious activity in authorized lab environments.
+
+| Area | Skills and Experience |
+|------|-----------------------|
+| 🛠️ **Security Monitoring** | Deployed and configured Security Onion for centralized network monitoring and security analysis. |
+| 🚨 **Alert Investigation** | Investigated intrusion detection system (IDS) alerts and analyzed Snort signatures. |
+| 🔎 **Session Investigation** | Used Sguil to investigate security events and suspicious network sessions. |
+| 📡 **Network Telemetry** | Analyzed Zeek network telemetry to identify unusual connections and activity. |
+| 📦 **Packet Inspection** | Examined network packets using Wireshark to investigate suspicious communications. |
+| 🔄 **TCP Stream Analysis** | Reconstructed TCP streams to review network conversations and identify potential threats. |
+| 🌐 **Traffic Analysis** | Analyzed network traffic patterns and correlated sessions using 5-tuple information. |
+| 🎯 **Threat Detection** | Identified and investigated indicators of malicious or unauthorized activity. |
+| 🚒 **Incident Response** | Analyzed security incidents and evaluated potential response actions. |
+| 🧩 **Log Correlation** | Correlated logs, alerts, and network activity to develop a complete picture of security events. |
+| 🕵️ **Post-Exploitation Analysis** | Investigated activity occurring after an initial system compromise. |
+| 🔬 **Network Forensics** | Examined network evidence to support incident investigations and identify suspicious behavior. |
 
 ---
 
