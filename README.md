@@ -72,7 +72,7 @@ My immediate career goal is to become a **SOC Analyst**, where I can strengthen 
 | **[Compromised Host Investigation Using 5-Tuple Analysis](https://github.com/christopher-daniels-hub/Compromised-Host-5-Tuple-Investigation)** | Investigated a compromised host using 5-tuple network analysis to correlate IDS alerts, packet captures, session data, and SIEM telemetry and confirm root-level compromise. | Security Onion, Sguil, Snort, Wireshark, Kibana, Zeek, SOC Analysis, Incident Response, Network Forensics |
 | **[Windows Vulnerability Analysis and Exploitation Lab](https://github.com/christopher-daniels-hub/Windows-Vulnerability-Analysis-Lab)** | Conducted an authorized vulnerability assessment of a Windows Server to identify exposed services, evaluate authentication security, verify remote access, and develop defense-in-depth recommendations. | Nmap, Hydra, Metasploit, SSH, Vulnerability Analysis, Enumeration, Ethical Hacking |
 | **[Python Port Scanner](https://github.com/christopher-daniels-hub/Python-Port-Scanner)** | Developed a custom Python TCP port scanner that scanned ports 1–1024 on an authorized Windows Server and verified discovered services. | Python, TCP Sockets, Port Scanning, Network Reconnaissance, Detection Awareness |
-
+| **[Comprehensive Automated Log Analysis System](https://github.com/christopher-daniels-hub/automated-log-analysis-lab)** | Built an automated lab workflow to collect Linux, Windows, and Apache logs, normalize events, summarize HTTP errors, and send events to Splunk for searching. | Python, Pandas, Splunk HEC, PowerShell, Log Collection, Log Normalization, SIEM |
 ---
 
 ## SIEM & SOC Experience
